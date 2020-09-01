@@ -3,7 +3,7 @@
 Here's some info about me:
 
 
-- 🔭 I’m currently working on a website/app/store related to my [http://twitch.tv/JimBaub](Twitch Content) in the .NET MVC Framework.
+- 🔭 I’m currently working on a website/app/store related to my [Twitch Content](http://twitch.tv/JimBaub) in the .NET MVC Framework.
 - 🌱 I’m currently learning Unity 3D, Unreal & C++
 - 💬 Ask me about education and workshops
 - 📫 How to reach me: neill-j14@ulster.ac.uk
